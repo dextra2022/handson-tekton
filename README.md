@@ -1,4 +1,6 @@
 # Hands-On Tekton
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdextra2022%2Fhandson-tekton.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdextra2022%2Fhandson-tekton?ref=badge_shield)
+
 
 ## Requirements
 
@@ -467,3 +469,6 @@ If you want to keep learning more about Tekton, check out these resources:
 * https://tekton.dev - The main tekton website
 * https://hub-preview.tekton.dev - Tekton Hub, where you can find reusable tasks and pipelines
 * https://developers.redhat.com/topics/ci-cd - Developer-facing info on CI/CD and Tekton
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdextra2022%2Fhandson-tekton.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdextra2022%2Fhandson-tekton?ref=badge_large)
